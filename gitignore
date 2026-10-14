@@ -1,0 +1,21 @@
+# Dataset (download separately, see README)
+data/
+ml-latest-small/
+ml-latest-small.zip
+
+# Trained model
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
